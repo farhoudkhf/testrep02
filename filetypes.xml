@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="inClassNoteWk08" type="PLAIN_TEXT" />
+      <mapping pattern="lectureNoteWk08" type="PLAIN_TEXT" />
       <mapping pattern="lectureNote" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
