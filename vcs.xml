@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/farhoudkhf/TestAllRepo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://farhoud@bitbucket.org/pfarca01/cw-two.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Farhoud\Documents\SP3Lab" />
+    <option name="cloneParentDir" value="C:\Users\Farhoud\Documents\cw2" />
   </component>
 </application>
