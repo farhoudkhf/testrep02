@@ -6,6 +6,7 @@
       <mapping pattern="lectureNoteWk08" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="lectureNote" type="PLAIN_TEXT" />
+      <mapping pattern="gameSettings" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
