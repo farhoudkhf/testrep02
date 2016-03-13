@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="lectureNote09" type="PLAIN_TEXT" />
       <mapping pattern="colour" type="PLAIN_TEXT" />
       <mapping pattern="inClassNoteWk08" type="PLAIN_TEXT" />
       <mapping pattern="lectureNoteWk08" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="lectureNote" type="PLAIN_TEXT" />
       <mapping pattern="gameSettings" type="PLAIN_TEXT" />
-      <mapping pattern="lectureNote09" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
