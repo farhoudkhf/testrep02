@@ -123,4 +123,7 @@
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+  </component>
 </application>
