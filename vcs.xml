@@ -18,8 +18,12 @@
           <option name="url" value="git@bitbucket.org:kaning/sdp2016-actors.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://farhoud@bitbucket.org/raytracerteam/cw-three.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Farhoud\Documents\cw2" />
+    <option name="cloneParentDir" value="C:\Users\Farhoud\Documents\cw-three" />
   </component>
 </application>
